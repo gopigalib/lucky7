@@ -42,4 +42,3 @@ public class lucky7 {
 	}
 
 }
-kjsefkjdjksdfk
